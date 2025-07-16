@@ -1,0 +1,816 @@
+Server Variables
+    SERVER_SOFTWARE = LiteSpeed
+    DOCUMENT_ROOT = /home/u758388267/domains/forestvision.ro/public_html
+    X-LSCACHE = on,crawler,esi,combine
+    LSWCP_TAG_PREFIX = 245
+    WP_SITEURL = NULL
+    WP_HOME = NULL
+    WP_CONTENT_DIR = /home/u758388267/domains/forestvision.ro/public_html/wp-content
+    SHORTINIT = false
+    LSCWP_CONTENT_DIR = /home/u758388267/domains/forestvision.ro/public_html/wp-content
+    LSCWP_CONTENT_FOLDER = wp-content
+    LSCWP_DIR = /home/u758388267/domains/forestvision.ro/public_html/wp-content/plugins/litespeed-cache/
+    LITESPEED_TIME_OFFSET = 0
+    LITESPEED_SERVER_TYPE = LITESPEED_SERVER_ENT
+    LITESPEED_CLI = NULL
+    LITESPEED_ALLOWED = true
+    LITESPEED_ON = true
+    LSWCP_TAG_PREFIX = 245
+    COOKIEHASH = d31fe980289b54b05df5e0c3bb6e50ff
+
+WordPress Specific Extras
+    wordpress version = 6.8.1
+    siteurl = https://forestvision.ro
+    home = https://forestvision.ro
+    home_url = https://forestvision.ro
+    locale = ro_RO
+    active theme = Breakdance Zero Theme
+    active plugins = array (
+  0 => 'query-monitor/query-monitor.php',
+  1 => 'advanced-custom-fields/acf.php',
+  2 => 'breakdance/plugin.php',
+  3 => 'cookie-law-info/cookie-law-info.php',
+  4 => 'curiero-plugin/curiero.php',
+  5 => 'duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php',
+  6 => 'facetwp/index.php',
+  7 => 'fusion-pay-ro-tbi/index.php',
+  8 => 'insert-headers-and-footers/ihaf.php',
+  9 => 'litespeed-cache/litespeed-cache.php',
+  10 => 'netopia-payments-payment-gateway/netopiapayments.php',
+  11 => 'product-recommendation-quiz-for-ecommerce/product-recommendation-quiz-for-ecommerce.php',
+  12 => 'really-simple-ssl/rlrsssl-really-simple-ssl.php',
+  13 => 'updraftplus/updraftplus.php',
+  14 => 'woo-bulk-editor/index.php',
+  15 => 'woo-discount-rules/woo-discount-rules.php',
+  16 => 'woo-order-export-lite/woo-order-export-lite.php',
+  17 => 'woocommerce-abandoned-cart/woocommerce-ac.php',
+  18 => 'woocommerce/woocommerce.php',
+  19 => 'wordpress-seo/wp-seo.php',
+  20 => 'wp-mail-logging/wp-mail-logging.php',
+  21 => 'wp-reset/wp-reset.php',
+  22 => 'wp-smush-pro/wp-smush.php',
+  23 => 'wpmudev-updates/update-notifications.php',
+)
+    cloud = array (
+  'curr_request.ver_check' => 0,
+  'last_request.ver_check' => 1752315948,
+  'news.utime' => 1738589378,
+  'curr_request.news' => 0,
+  'last_request.news' => 1738589378,
+  'token_ts' => 1743852890,
+  'ips_ts' => 1752492900,
+  'ips_ts_runner' => 1752492900,
+  'is_linked' => 1,
+  'curr_request.d/usage' => 0,
+  'partner' => 
+  array (
+  ),
+  'last_request.d/usage' => 1752599752,
+  'usage.img_optm' => 
+  array (
+    'total_used' => 366,
+    'used' => 366,
+    'quota' => 10000,
+    'daily_quota' => 1000,
+    'remaining_daily_quota' => 834,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+  ),
+  'usage.page_optm' => 
+  array (
+    'total_used' => 73,
+    'used' => 73,
+    'quota' => 2000,
+    'unlimited_quota' => false,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+    'daily_quota' => 117,
+    'remaining_daily_quota' => 107,
+    'sub_svc' => 
+    array (
+      'ccss' => 23,
+      'ucss' => 40,
+      'vpi' => 10,
+    ),
+  ),
+  'usage.ccss' => 
+  array (
+    'total_used' => 73,
+    'used' => 73,
+    'quota' => 2000,
+    'unlimited_quota' => false,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+    'daily_quota' => 117,
+    'remaining_daily_quota' => 107,
+  ),
+  'usage.ucss' => false,
+  'usage.vpi' => false,
+  'usage.lqip' => 
+  array (
+    'total_used' => 0,
+    'used' => 0,
+    'quota' => 1000,
+    'unlimited_quota' => false,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+    'daily_quota' => 58,
+    'remaining_daily_quota' => 58,
+  ),
+  'usage.cdn' => 
+  array (
+    'total_used' => 0,
+    'used' => 0,
+    'quota' => 200,
+    'unlimited_quota' => false,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+    'daily_quota' => -1,
+    'remaining_daily_quota' => -1,
+  ),
+  'usage.health' => 
+  array (
+    'total_used' => 1,
+    'used' => 1,
+    'quota' => 1000,
+    'unlimited_quota' => false,
+    'pag_used' => 0,
+    'pag_bal' => 0,
+    'pkgs' => 4,
+    'daily_quota' => -1,
+    'remaining_daily_quota' => -1,
+  ),
+  'curr_request.d/nodes' => 0,
+  'last_request.d/nodes' => 1752492926,
+  'server.img_optm' => 'https://node693.quic.cloud',
+  'server_date.img_optm' => 1752384493,
+  'curr_request.img_optm-new_req' => 0,
+  'last_request.img_optm-new_req' => 1752599789,
+  'curr_request.img_optm-taken' => 0,
+  'last_request.img_optm-taken' => 1744019893,
+  'server.ccss' => 'https://node12.quic.cloud',
+  'server_date.ccss' => 1752325835,
+  'curr_request.ccss' => 0,
+  'last_request.ccss' => 1752492898,
+  'server.vpi' => 'https://node123.quic.cloud',
+  'server_date.vpi' => 1752384564,
+  'curr_request.vpi' => 0,
+  'last_request.vpi' => 1752384607,
+  'disabled_node' => 
+  array (
+    'https://tur669-worker.quic.cloud' => 1742551281,
+    'https://node13.quic.cloud' => 1743847270,
+    'https://node449.quic.cloud' => 1743847802,
+  ),
+  'server.ucss' => 'https://node123.quic.cloud',
+  'server_date.ucss' => 1752492927,
+  'curr_request.ucss' => 0,
+  'last_request.ucss' => 1752553335,
+  'curr_request.d/sync_conf' => 0,
+  'last_request.d/sync_conf' => 1752650728,
+  'server.lqip' => 'https://node13.quic.cloud',
+  'server_date.lqip' => 1744017275,
+  'curr_request.lqip' => 1744022613,
+  'apikey_ts' => 1743852898,
+  'main_domain' => 'forestvision.ro',
+  'last_request.lqip' => 1744022594,
+  'curr_request.d/get_token' => 0,
+  'last_request.d/get_token' => 1744020632,
+  'curr_request.d/v3upgrade' => 0,
+  'last_request.d/v3upgrade' => 1744355673,
+  'qc_activated' => 'linked',
+  'curr_request.d/dash' => 0,
+  'last_request.d/dash' => 1752651299,
+  'server.health' => 'https://node13.quic.cloud',
+  'server_date.health' => 1752325325,
+  'curr_request.health-score' => 0,
+  'last_request.health-score' => 1752325325,
+  'ttl.ucss' => 1752553346,
+  'ttl.ccss' => 1752492909,
+  'ttl.vpi' => 1752384619,
+)
+
+LSCache Plugin Options
+    _version = 7.2
+    hash = 
+    api_key = 27667026A4D9C9B0B6C84FA0984433AD
+    auto_upgrade = false
+    server_ip = 62.72.50.8
+    guest = true
+    guest_optm = true
+    news = false
+    guest_uas = array (
+  0 => 'Lighthouse',
+  1 => 'GTmetrix',
+  2 => 'Google',
+  3 => 'Pingdom',
+  4 => 'bot',
+  5 => 'spider',
+  6 => 'PTST',
+  7 => 'HeadlessChrome',
+)
+    guest_ips = array (
+  0 => '208.70.247.157',
+  1 => '172.255.48.130',
+  2 => '172.255.48.131',
+  3 => '172.255.48.132',
+  4 => '172.255.48.133',
+  5 => '172.255.48.134',
+  6 => '172.255.48.135',
+  7 => '172.255.48.136',
+  8 => '172.255.48.137',
+  9 => '172.255.48.138',
+  10 => '172.255.48.139',
+  11 => '172.255.48.140',
+  12 => '172.255.48.141',
+  13 => '172.255.48.142',
+  14 => '172.255.48.143',
+  15 => '172.255.48.144',
+  16 => '172.255.48.145',
+  17 => '172.255.48.146',
+  18 => '172.255.48.147',
+  19 => '52.229.122.240',
+  20 => '104.214.72.101',
+  21 => '13.66.7.11',
+  22 => '13.85.24.83',
+  23 => '13.85.24.90',
+  24 => '13.85.82.26',
+  25 => '40.74.242.253',
+  26 => '40.74.243.13',
+  27 => '40.74.243.176',
+  28 => '104.214.48.247',
+  29 => '157.55.189.189',
+  30 => '104.214.110.135',
+  31 => '70.37.83.240',
+  32 => '65.52.36.250',
+  33 => '13.78.216.56',
+  34 => '52.162.212.163',
+  35 => '23.96.34.105',
+  36 => '65.52.113.236',
+  37 => '172.255.61.34',
+  38 => '172.255.61.35',
+  39 => '172.255.61.36',
+  40 => '172.255.61.37',
+  41 => '172.255.61.38',
+  42 => '172.255.61.39',
+  43 => '172.255.61.40',
+  44 => '104.41.2.19',
+  45 => '191.235.98.164',
+  46 => '191.235.99.221',
+  47 => '191.232.194.51',
+  48 => '52.237.235.185',
+  49 => '52.237.250.73',
+  50 => '52.237.236.145',
+  51 => '104.211.143.8',
+  52 => '104.211.165.53',
+  53 => '52.172.14.87',
+  54 => '40.83.89.214',
+  55 => '52.175.57.81',
+  56 => '20.188.63.151',
+  57 => '20.52.36.49',
+  58 => '52.246.165.153',
+  59 => '51.144.102.233',
+  60 => '13.76.97.224',
+  61 => '102.133.169.66',
+  62 => '52.231.199.170',
+  63 => '13.53.162.7',
+  64 => '40.123.218.94',
+)
+    cache = true
+    cache-priv = true
+    cache-commenter = true
+    cache-rest = true
+    cache-page_login = true
+    cache-mobile = true
+    cache-mobile_rules = array (
+  0 => 'Mobile',
+  1 => 'Android',
+  2 => 'Silk/',
+  3 => 'Kindle',
+  4 => 'BlackBerry',
+  5 => 'Opera Mini',
+  6 => 'Opera Mobi',
+)
+    cache-browser = true
+    cache-exc_useragents = array (
+)
+    cache-exc_cookies = array (
+)
+    cache-exc_qs = array (
+)
+    cache-exc_cat = array (
+)
+    cache-exc_tag = array (
+)
+    cache-force_uri = array (
+)
+    cache-force_pub_uri = array (
+)
+    cache-priv_uri = array (
+)
+    cache-exc = array (
+  0 => '/wp-admin/admin-ajax.php',
+  1 => '/wp-json/breakdance/*',
+)
+    cache-exc_roles = array (
+)
+    cache-drop_qs = array (
+)
+    cache-ttl_pub = 3600
+    cache-ttl_priv = 3600
+    cache-ttl_frontpage = 3600
+    cache-ttl_feed = 3600
+    cache-ttl_rest = 3600
+    cache-ttl_browser = 700000
+    cache-ttl_status = array (
+  0 => '404 3600',
+  1 => '500 600',
+)
+    cache-login_cookie = 
+    cache-ajax_ttl = array (
+)
+    cache-vary_cookies = array (
+)
+    cache-vary_group = array (
+  'administrator' => '99',
+  'author' => '0',
+  'contributor' => '0',
+  'customer' => '0',
+  'editor' => '0',
+  'shop_manager' => '0',
+  'subscriber' => '0',
+  'translator' => '0',
+  'wpseo_editor' => '0',
+  'wpseo_manager' => '0',
+  'wwp_wholesaler' => '0',
+)
+    purge-upgrade = false
+    purge-stale = false
+    purge-post_all = false
+    purge-post_f = false
+    purge-post_h = false
+    purge-post_p = false
+    purge-post_pwrp = false
+    purge-post_a = false
+    purge-post_y = false
+    purge-post_m = false
+    purge-post_d = false
+    purge-post_t = false
+    purge-post_pt = false
+    purge-timed_urls = array (
+)
+    purge-timed_urls_time = 
+    purge-hook_all = array (
+  0 => 'switch_theme',
+  1 => 'wp_create_nav_menu',
+  2 => 'wp_update_nav_menu',
+  3 => 'wp_delete_nav_menu',
+  4 => 'create_term',
+  5 => 'edit_terms',
+  6 => 'delete_term',
+  7 => 'add_link',
+  8 => 'edit_link',
+  9 => 'delete_link',
+)
+    esi = true
+    esi-cache_admbar = true
+    esi-cache_commform = true
+    esi-nonce = array (
+)
+    util-instant_click = false
+    util-no_https_vary = false
+    debug-disable_all = false
+    debug = 0
+    debug-ips = array (
+)
+    debug-level = false
+    debug-filesize = 0
+    debug-collapse_qs = false
+    debug-inc = array (
+)
+    debug-exc = array (
+)
+    debug-exc_strings = array (
+)
+    db_optm-revisions_max = 3
+    db_optm-revisions_age = 30
+    optm-css_min = true
+    optm-css_comb = true
+    optm-css_comb_ext_inl = true
+    optm-ucss = true
+    optm-ucss_inline = true
+    optm-ucss_whitelist = array (
+)
+    optm-ucss_file_exc_inline = array (
+)
+    optm-ucss_exc = array (
+)
+    optm-css_exc = array (
+)
+    optm-js_min = true
+    optm-js_comb = true
+    optm-js_comb_ext_inl = true
+    optm-js_delay_inc = array (
+)
+    optm-js_exc = array (
+  0 => 'jquery.js',
+  1 => 'custom.js',
+  2 => 'woocommerce.min.js',
+)
+    optm-html_min = true
+    optm-html_lazy = array (
+)
+    optm-html_skip_comment = array (
+)
+    optm-qs_rm = true
+    optm-ggfonts_rm = true
+    optm-css_async = true
+    optm-ccss_per_url = true
+    optm-ccss_sep_posttype = array (
+)
+    optm-ccss_sep_uri = array (
+)
+    optm-ccss_whitelist = array (
+)
+    optm-css_async_inline = true
+    optm-css_font_display = true
+    optm-js_defer = 1
+    optm-emoji_rm = true
+    optm-noscript_rm = true
+    optm-ggfonts_async = true
+    optm-exc_roles = array (
+)
+    optm-ccss_con = 
+    optm-js_defer_exc = array (
+  0 => 'custom.js  # test this carefully, exclude if breakage occurs',
+  1 => 'woocommerce.min.js  # exclude or delay carefully, test page behavior',
+  2 => 'litespeed-ajax.min.js  # can be deferred but exclude if breaks',
+)
+    optm-gm_js_exc = array (
+)
+    optm-dns_prefetch = array (
+  0 => '//fonts.googleapis.com',
+  1 => '//www.googletagmanager.com',
+  2 => '//connect.facebook.net',
+  3 => '//cdn.jsdelivr.net',
+)
+    optm-dns_prefetch_ctrl = true
+    optm-dns_preconnect = array (
+  0 => 'https://fonts.googleapis.com',
+  1 => 'https://www.googletagmanager.com',
+  2 => 'https://connect.facebook.net',
+  3 => 'https://cdn.jsdelivr.net',
+)
+    optm-exc = array (
+)
+    optm-guest_only = true
+    object = true
+    object-kind = true
+    object-host = 
+    object-port = 6379
+    object-life = 3600
+    object-persistent = true
+    object-admin = false
+    object-transients = false
+    object-db_id = 0
+    object-user = 
+    object-pswd = 
+    object-global_groups = array (
+)
+    object-non_persistent_groups = array (
+)
+    discuss-avatar_cache = true
+    discuss-avatar_cron = true
+    discuss-avatar_cache_ttl = 0
+    optm-localize = false
+    optm-localize_domains = array (
+)
+    media-lazy = false
+    media-lazy_placeholder = 
+    media-placeholder_resp = false
+    media-placeholder_resp_color = #000000
+    media-placeholder_resp_svg = 
+    media-lqip = false
+    media-lqip_qual = 4
+    media-lqip_min_w = 100
+    media-lqip_min_h = 100
+    media-placeholder_resp_async = true
+    media-iframe_lazy = false
+    media-add_missing_sizes = false
+    media-lazy_exc = array (
+)
+    media-lazy_cls_exc = array (
+)
+    media-lazy_parent_cls_exc = array (
+)
+    media-iframe_lazy_cls_exc = array (
+)
+    media-iframe_lazy_parent_cls_exc = array (
+)
+    media-lazy_uri_exc = array (
+)
+    media-lqip_exc = array (
+  0 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6965_result-768x432.webp',
+  1 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6964_result-768x432.webp',
+  2 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6893_result-768x457.webp',
+  3 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6965_result-150x150.webp',
+  4 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6964_result-150x150.webp',
+  5 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6893_result-150x150.webp',
+  6 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6965_result.webp',
+  7 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6964_result.webp',
+  8 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6893_result.webp',
+  9 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8844_result-768x432.webp',
+  10 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8840_result-768x432.webp',
+  11 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8828_result-768x432.webp',
+  12 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8844_result-150x150.webp',
+  13 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8840_result-150x150.webp',
+  14 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8828_result-150x150.webp',
+  15 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8844_result.webp',
+  16 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8840_result.webp',
+  17 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8828_result.webp',
+  18 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5811_result-768x429.webp',
+  19 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5810_result-768x428.webp',
+  20 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5809_result-768x435.webp',
+  21 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5811_result-150x150.webp',
+  22 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5810_result-150x150.webp',
+  23 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5809_result-150x150.webp',
+  24 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5811_result.webp',
+  25 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5810_result.webp',
+  26 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5809_result.webp',
+  27 => 'https://forestvision.ro/wp-content/uploads/2025/02/IMG-20250204-WA0005_result-e1741960144579-300x300.webp',
+  28 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5363_result-768x430.webp',
+  29 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4522_result-768x544.webp',
+  30 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4453_result-768x576.webp',
+  31 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5363_result-150x150.webp',
+  32 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4522_result-150x150.webp',
+  33 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4453_result-150x150.webp',
+  34 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5363_result.webp',
+  35 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4522_result.webp',
+  36 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_4453_result.webp',
+  37 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8858_result-768x432.webp',
+  38 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8850_result-768x432.webp',
+  39 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8961_result-768x432.webp',
+  40 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8858_result-150x150.webp',
+  41 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8850_result-150x150.webp',
+  42 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8961_result-150x150.webp',
+  43 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8858_result.webp',
+  44 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8850_result.webp',
+  45 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8961_result.webp',
+  46 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7511_result-768x426.webp',
+  47 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7144_result-768x472.webp',
+  48 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6968_result-768x432.webp',
+  49 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7511_result-150x150.webp',
+  50 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7144_result-150x150.webp',
+  51 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6968_result-150x150.webp',
+  52 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7511_result.webp',
+  53 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7144_result.webp',
+  54 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6968_result.webp',
+  55 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6339_result-768x418.webp',
+  56 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6338_result-768x430.webp',
+  57 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6337_result-768x457.webp',
+  58 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6339_result-150x150.webp',
+  59 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6338_result-150x150.webp',
+  60 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6337_result-150x150.webp',
+  61 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6339_result.webp',
+  62 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6338_result.webp',
+  63 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6337_result.webp',
+  64 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7789_result-768x552.webp',
+  65 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8820_result-768x432.webp',
+  66 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7513_result-768x426.webp',
+  67 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7513_result-150x150.webp',
+  68 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7789_result.webp',
+  69 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_8820_result.webp',
+  70 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_7513_result.webp',
+  71 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6205_result-768x354.webp',
+  72 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5813_result-768x430.webp',
+  73 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5812_result-768x431.webp',
+  74 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6205_result-150x150.webp',
+  75 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5813_result-150x150.webp',
+  76 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5812_result-150x150.webp',
+  77 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6205_result.webp',
+  78 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5813_result.webp',
+  79 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5812_result.webp',
+  80 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5808_result-768x437.webp',
+  81 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5807_result-768x444.webp',
+  82 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5368_result-768x428.webp',
+  83 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5808_result-150x150.webp',
+  84 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5807_result-150x150.webp',
+  85 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5368_result-150x150.webp',
+  86 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5808_result.webp',
+  87 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5807_result.webp',
+  88 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_5368_result.webp',
+  89 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6822_result-768x416.webp',
+  90 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6341_result-768x426.webp',
+  91 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_3837_result-768x549.webp',
+  92 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6822_result-150x150.webp',
+  93 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6341_result-150x150.webp',
+  94 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_3837_result-150x150.webp',
+  95 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6822_result.webp',
+  96 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6341_result.webp',
+  97 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6335_result-768x429.webp',
+  98 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6334_result-768x426.webp',
+  99 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6333_result-768x435.webp',
+  100 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6333_result-150x150.webp',
+  101 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6335_result.webp',
+  102 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6334_result.webp',
+  103 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_6333_result.webp',
+  104 => 'https://forestvision.ro/wp-content/uploads/2025/01/IMG_3837_result.webp',
+  105 => 'https://cdn.tbibank.support/integrations/loading.svg',
+)
+    media-vpi = false
+    media-vpi_cron = false
+    img_optm-auto = true
+    img_optm-ori = true
+    img_optm-rm_bkup = false
+    img_optm-webp = 1
+    img_optm-lossless = false
+    img_optm-exif = false
+    img_optm-webp_attr = array (
+  0 => 'img.src',
+  1 => 'div.data-thumb',
+  2 => 'img.data-src',
+  3 => 'img.data-lazyload',
+  4 => 'div.data-large_image',
+  5 => 'img.retina_logo_url',
+  6 => 'div.data-parallax-image',
+  7 => 'div.data-vc-parallax-image',
+  8 => 'video.poster',
+)
+    img_optm-webp_replace_srcset = true
+    img_optm-jpg_quality = 82
+    crawler = true
+    crawler-crawl_interval = 600
+    crawler-load_limit = 25
+    crawler-sitemap = https://forestvision.ro/sitemap_index.xml
+    crawler-roles = array (
+)
+    crawler-cookies = array (
+)
+    misc-heartbeat_front = false
+    misc-heartbeat_front_ttl = 0
+    misc-heartbeat_back = false
+    misc-heartbeat_back_ttl = 0
+    misc-heartbeat_editor = false
+    misc-heartbeat_editor_ttl = 0
+    cdn = false
+    cdn-ori = array (
+  0 => '//forestvision.ro/',
+)
+    cdn-ori_dir = array (
+)
+    cdn-exc = array (
+)
+    cdn-quic = true
+    cdn-cloudflare = false
+    cdn-cloudflare_email = 
+    cdn-cloudflare_key = 
+    cdn-cloudflare_name = 
+    cdn-cloudflare_zone = 
+    cdn-cloudflare_clear = false
+    cdn-mapping = array (
+  0 => 
+  array (
+    'url' => '/',
+    'inc_img' => true,
+    'inc_css' => true,
+    'inc_js' => true,
+    'filetype' => 
+    array (
+      0 => '.aac',
+      1 => '.css',
+      2 => '.eot',
+      3 => '.gif',
+      4 => '.jpeg',
+      5 => '.jpg',
+      6 => '.js',
+      7 => '.less',
+      8 => '.mp3',
+      9 => '.mp4',
+      10 => '.ogg',
+      11 => '.otf',
+      12 => '.pdf',
+      13 => '.png',
+      14 => '.svg',
+      15 => '.ttf',
+      16 => '.webp',
+      17 => '.woff',
+      18 => '.woff2',
+    ),
+  ),
+)
+    cdn-attr = array (
+)
+    qc-nameservers = lisa.quicns.net,kevin.quicns.cloud
+    qc-cname = 
+    _cache = true
+    wc_update_interval = 0
+    wc_cart_vary = false
+
+/home/u758388267/domains/forestvision.ro/public_html/.htaccess contents:
+# BEGIN LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+<IfModule LiteSpeed>
+	RewriteEngine on
+	CacheLookup on
+	RewriteRule .* - [E=Cache-Control:no-autoflush]
+	RewriteRule litespeed/debug/.*\.log$ - [F,L]
+	RewriteRule \.litespeed_conf\.dat - [F,L]
+	
+### marker ASYNC start ###
+	RewriteCond %{REQUEST_URI} /wp-admin/admin-ajax\.php
+	RewriteCond %{QUERY_STRING} action=async_litespeed
+	RewriteRule .* - [E=noabort:1]
+### marker ASYNC end ###
+	
+### marker MOBILE start ###
+	RewriteCond %{HTTP_USER_AGENT} Mobile|Android|Silk/|Kindle|BlackBerry|Opera\ Mini|Opera\ Mobi [NC]
+	RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+ismobile]
+### marker MOBILE end ###
+	
+### marker WEBP start ###
+	RewriteCond %{HTTP_ACCEPT} "image/webp"
+	RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+	RewriteCond %{HTTP_USER_AGENT} iPhone.*Version/(\d{2}).*Safari
+	RewriteCond %1 >13
+	RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+	RewriteCond %{HTTP_USER_AGENT} Firefox/([0-9]+)
+	RewriteCond %1 >=65
+	RewriteRule .* - [E=Cache-Control:vary=%{ENV:LSCACHE_VARY_VALUE}+webp]
+### marker WEBP end ###
+	
+</IfModule>
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+### marker BROWSER CACHE start ###
+<IfModule mod_expires.c>
+	ExpiresActive on
+	ExpiresByType application/pdf A700000
+	ExpiresByType image/x-icon A700000
+	ExpiresByType image/vnd.microsoft.icon A700000
+	ExpiresByType image/svg+xml A700000
+	
+	ExpiresByType image/jpg A700000
+	ExpiresByType image/jpeg A700000
+	ExpiresByType image/png A700000
+	ExpiresByType image/gif A700000
+	ExpiresByType image/webp A700000
+	ExpiresByType image/avif A700000
+	
+	ExpiresByType video/ogg A700000
+	ExpiresByType audio/ogg A700000
+	ExpiresByType video/mp4 A700000
+	ExpiresByType video/webm A700000
+	
+	ExpiresByType text/css A700000
+	ExpiresByType text/javascript A700000
+	ExpiresByType application/javascript A700000
+	ExpiresByType application/x-javascript A700000
+	
+	ExpiresByType application/x-font-ttf A700000
+	ExpiresByType application/x-font-woff A700000
+	ExpiresByType application/font-woff A700000
+	ExpiresByType application/font-woff2 A700000
+	ExpiresByType application/vnd.ms-fontobject A700000
+	ExpiresByType font/ttf A700000
+	ExpiresByType font/otf A700000
+	ExpiresByType font/woff A700000
+	ExpiresByType font/woff2 A700000
+	
+</IfModule>
+### marker BROWSER CACHE end ###
+
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+
+#Begin Really Simple Security
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteCond %{HTTPS} !=on [NC]
+	RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+
+#End Really Simple Security
+# BEGIN WordPress
+# Directivele (liniile) între „BEGIN WordPress” și „END WordPress” sunt
+# generate dinamic și ar trebui modificate numai prin filtrele WordPress.
+# Toate modificările la directivele cuprinse între acești marcatori vor fi suprascrise.
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+	RewriteBase /
+	RewriteRule ^index\.php$ - [L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
